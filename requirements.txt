@@ -1,9 +1,5 @@
 streamlit
-torch
-huggingface_hub
-transformers
+tensorflow
 numpy
-pandas
 scikit-learn
-librosa
-soundfile
+huggingface_hub
