@@ -1,6 +1,9 @@
 streamlit
 torch
 transformers
+librosa
 numpy
+SpeechRecognition
+pydub
+plotly
 pandas
-scikit-learn
