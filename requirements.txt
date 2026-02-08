@@ -1,9 +1,9 @@
 streamlit
 torch
+huggingface_hub
 transformers
-librosa
 numpy
-SpeechRecognition
-pydub
-plotly
 pandas
+scikit-learn
+librosa
+soundfile
