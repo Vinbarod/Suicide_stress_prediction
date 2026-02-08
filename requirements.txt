@@ -3,3 +3,5 @@ tensorflow
 numpy
 scikit-learn
 huggingface_hub
+matplotlib
+pandas
